@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hw-03-feedback/static/css/main.0ff7fe67.css",
+    "main.js": "/react-hw-03-feedback/static/js/main.fba501b5.js",
+    "index.html": "/react-hw-03-feedback/index.html",
+    "main.0ff7fe67.css.map": "/react-hw-03-feedback/static/css/main.0ff7fe67.css.map",
+    "main.fba501b5.js.map": "/react-hw-03-feedback/static/js/main.fba501b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ff7fe67.css",
+    "static/js/main.fba501b5.js"
+  ]
+}
